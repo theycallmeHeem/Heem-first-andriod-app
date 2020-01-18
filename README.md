@@ -1,7 +1,7 @@
 # Heem-first-andriod-app
 
-## NAME_OF_YOUR_APP_HERE
-HeemHelloApp
+## HeemHelloApp
+
 ### App Description
 Hello Heem is an app theat changes colors and text using the buttons provided
 
